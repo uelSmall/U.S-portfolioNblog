@@ -11,3 +11,4 @@
 6. make sure all links to social media pages is correct.. freecodecamp, twitter, linkedin, facebook, instagram, github, dev.to.
 7. add content to blog and fix relevant issues to get it to work
 8. tweak the design around to my taste in junction with number 4 task
+9. work on profile picture in the about me section
