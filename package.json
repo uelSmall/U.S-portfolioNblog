@@ -1,6 +1,6 @@
 {
-  "name": "andremadarang",
-  "private": true,
+  "name": "uelsmall",
+  "private": false,
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",

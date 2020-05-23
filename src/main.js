@@ -23,12 +23,12 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'description',
-    content: 'Gridsome Portfolio Starter'
+    content: "U'el SmallPortfolio and Blog"
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Andre Madarang'
+    content: "U'el Small"
   })
 
   head.link.push({
